@@ -3,9 +3,25 @@ title: Git commit 规范
 date: 2018-05-21 21:34:14
 tags:
 - Git
+categories:
+- Git
 ---
 
 # Git commit 规范
+
+```
+git commit -m "feat(jsajk.ss asj.*): jasdjsak"
+
+feat：新功能（feature）
+fix：修补bug
+docs：文档（documentation）
+style： 格式（不影响代码运行的变动）
+refactor：重构（即不是新增功能，也不是修改bug的代码变动）
+test：增加测试
+chore：构建过程或辅助工具的变动
+```
+
+
 
 ### Commit message 的格式
 

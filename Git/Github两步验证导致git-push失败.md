@@ -3,6 +3,8 @@ title: Github两步验证导致git push失败
 date: 2018-04-22 16:20:56
 tags:
 - Github
+categories:
+- Git
 ---
 
 ## Creating a personal access token for the command line

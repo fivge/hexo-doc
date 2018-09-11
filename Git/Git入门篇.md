@@ -3,6 +3,8 @@ title: Git入门篇
 date: 2018-05-12 16:11:03
 tags:
 - Git
+categories:
+- Git
 ---
 
 # Git入门篇

@@ -1,12 +1,12 @@
 ---
 title: nc
 date: 2018-01-06 23:19:56
-updated: 
+updated:
 tags:
-- nc
-- Term
+  - nc
+  - Term
 categories:
-- Term
+  - Term
 ---
 
 ```bash
@@ -25,13 +25,7 @@ nc -vz 10.0.0.3 22
 nc -u -vz 10.0.0.1 123
 ```
 
-
-
-
-
 ---
-
-
 
 > 查看端口号开启情况
 
@@ -40,7 +34,7 @@ nc -u -vz 10.0.0.1 123
 netstat -nupl
 ### TCP
 netstat -ntpl
-### 
+###
 lsof -i:80
 ```
 
@@ -59,8 +53,6 @@ nc -v 10.0.0.1 344
 
 可以为端口号,也可以为范围,如 341-348
 ```
-
-
 
 > ### 参考链接
 

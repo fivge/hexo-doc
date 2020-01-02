@@ -2,12 +2,12 @@
 title: Homebrew镜像源
 date: 2018-04-21 23:11:03
 tags:
-- Homebrew
+  - Homebrew
 categories:
-- Term
+  - Term
 ---
 
-### Homebrew镜像源
+### Homebrew 镜像源
 
 [ 清华大学镜像源](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)
 
@@ -23,4 +23,3 @@ git remote set-url origin https://mirrors.tuna.tsinghua.edu.cn/git/homebrew/home
 
 brew update
 ```
-
